@@ -29,3 +29,4 @@ clone NVCHAD then remember to type n
 ```
  git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 ```
+![Screenshot](./images/screenshot.png)
