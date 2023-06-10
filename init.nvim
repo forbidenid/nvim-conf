@@ -1,0 +1,4 @@
+" Enable Git signs
+let g:vim_gitgutter_enabled = 1
+let g:gitgutter_enabled = 1
+
