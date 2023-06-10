@@ -17,7 +17,7 @@ Load the alias at startup
 ```
 echo "alias vim=nvim" >> .zshrc
 ```
-Back up your configs i you have any
+Back up your configs if you have any
 ```
 mv ~/.config/nvim ~/.config/nvim/backup
 ```
